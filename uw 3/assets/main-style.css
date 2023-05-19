@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+router-link {
+    text-decoration: none;
+    color: inherit;
+}
+router-link:visited {
+    text-decoration: none;
+    color: inherit;
+}
+@font-face {
+    font-family: 'maximacyrtcy_lighcomp';
+    src: url(../assets/fonts/maximacyrtcy_lighcomp.ttf);
+  }
